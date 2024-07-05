@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cars-classic-autotrader-react/static/css/main.727680b5.css",
-    "main.js": "/cars-classic-autotrader-react/static/js/main.5628cda0.js",
+    "main.js": "/cars-classic-autotrader-react/static/js/main.75bb2343.js",
     "static/js/453.9bdd93fe.chunk.js": "/cars-classic-autotrader-react/static/js/453.9bdd93fe.chunk.js",
     "static/media/car-12.jpg": "/cars-classic-autotrader-react/static/media/car-12.19678b6a3453dd38f7bb.jpg",
     "static/media/car-8.jpg": "/cars-classic-autotrader-react/static/media/car-8.19678b6a3453dd38f7bb.jpg",
@@ -49,11 +49,11 @@
     "static/media/circle.svg": "/cars-classic-autotrader-react/static/media/circle.f3ecaf8efa31186b42bd14804d0f6136.svg",
     "static/media/checked.svg": "/cars-classic-autotrader-react/static/media/checked.a7da76bb8c2d8c6c215e.svg",
     "main.727680b5.css.map": "/cars-classic-autotrader-react/static/css/main.727680b5.css.map",
-    "main.5628cda0.js.map": "/cars-classic-autotrader-react/static/js/main.5628cda0.js.map",
+    "main.75bb2343.js.map": "/cars-classic-autotrader-react/static/js/main.75bb2343.js.map",
     "453.9bdd93fe.chunk.js.map": "/cars-classic-autotrader-react/static/js/453.9bdd93fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.727680b5.css",
-    "static/js/main.5628cda0.js"
+    "static/js/main.75bb2343.js"
   ]
 }
